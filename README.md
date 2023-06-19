@@ -26,7 +26,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 # Description
 
-A simple e-commerce backen.
+A simple e-commerce backend.
 
 # Live screen recording of the application
 
